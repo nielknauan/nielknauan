@@ -35,6 +35,16 @@
 
 <hr style="margin-bottom: 20px; border-bottom: 1px solid #ccc;">
 
+<h3 style="text-align: center;">📚 Bibliotecas</h3>
+<div style="text-align: center; margin-bottom: 20px;">
+<a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
+<a href="https://docs.microsoft.com/en-us/dax/" target="_blank"><img src="https://img.shields.io/badge/DAX-FF3C00?style=for-the-badge&logo=power-bi&logoColor=white" alt="DAX"></a>
+</div>
+
+<hr style="margin-bottom: 20px; border-bottom: 1px solid #ccc;">
+
 <h3 style="text-align: center;">🔗 Redes sociais</h3>
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/nielknauan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
