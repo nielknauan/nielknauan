@@ -30,6 +30,7 @@
   <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
   <a href="https://looker.com/" target="_blank"><img src="https://img.shields.io/badge/Looker-00B0FF?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"></a>
   <a href="https://wwwqlik.com/" target="_blank"><img src="https://img.shields.io/badge/Qlik%20Sense-48B9C7?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense"></a>
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 </div>
 
