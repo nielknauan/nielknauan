@@ -43,6 +43,7 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
 <a href="https://docs.microsoft.com/en-us/dax/" target="_blank"><img src="https://img.shields.io/badge/DAX-FF3C00?style=for-the-badge&logo=power-bi&logoColor=white" alt="DAX"></a>
+<a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank"><img src="https://img.shields.io/badge/ETL-FF5733?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAIAAAArHJzzAAAAwklEQVR4AYXRMSiEURiF4a+c/WZIxlEoxMLYAJ0bBN+qJFfFBG8M0lBmkzskI4K8kTqhLLBp7MAwd3DtxzPZvZ7t7n3dnHwYAvXnnO1wJFJXZ0A0pY9mIqMZ1UTSoZ4c00HZiHjPp3UWZjO1EKl+lg4qYdGAnQl0E+Z6sK8K0C7tJY1itChEPjGPN3sQ2GOrsmJcVl1UzCmMqyfpHKpmcTy6Kqqn8q65l6Ck8+Y8Fk+YzRMUp3HmJeExy7hn2QXw9H0Z+MQV4+e8gAAAABJRU5ErkJggg==" alt="ETL"></a>
 </div>
 
 <hr style="margin-bottom: 20px; border-bottom: 1px solid #ccc;">
