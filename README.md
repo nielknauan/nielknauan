@@ -18,6 +18,8 @@
 <h3 style="text-align: center;">🧑🏻‍💻 Tecnologias</h3>
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/VBA-86744B?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VBA"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
 </div>
