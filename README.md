@@ -1,59 +1,74 @@
-<!-- Bem-vindo ao meu Git -->
+<h1 align="center">Olá, eu sou o Nielk Nauan 👋</h1>
+<p align="center"><b>Engenheiro de Dados Sênior</b> · Lakehouse · PySpark · dbt · IA aplicada a dados</p>
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <h2>Olá, eu sou Nielk Nauan 👨‍💻</h2>
-  <h4>Analista de Dados e Apaixonado por Tecnologia 📊</h4>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nielknauan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nielk_nauan@live.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+</p>
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="https://img.shields.io/github/followers/nielknauan.svg?style=social&label=Seguir&maxAge=2592000">
-    <img src="https://img.shields.io/github/followers/nielknauan.svg?style=social&label=Seguir&maxAge=2592000" alt="Seguidores">
-  </a>
-</div>
+---
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nielknauan&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Nielk Nauan">
-</div>
+### 🧭 Sobre mim
 
-<h3 style="text-align: center;">🧑🏻‍💻 Tecnologias</h3>
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/VBA-86744B?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VBA"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
-</div>
+Mais de 5 anos trabalhando com dados de ponta a ponta: **ingestão, modelagem, governança, BI e IA**.
 
-<hr style="margin-bottom: 20px; border-bottom: 1px solid #ccc;">
+- 🏗️ Construí e evoluí um **Data Lakehouse no Databricks** (Medalhão Bronze/Silver/Gold + Star Schema) integrando ERP (Protheus, TOTVS RM), CRM e APIs
+- 🔁 Pipelines com **PySpark, Spark SQL, Azure Data Factory e Airflow**; transformações migradas para **dbt** com testes e documentação
+- 🤖 Pipeline com **LLM** que automatizou a monitoria de qualidade de atendimentos: **270 horas → menos de 2 minutos**
+- 🧠 Desenvolvimento e testes de um **sistema multiagente** (Analista, Engenheiro e Arquiteto) que valida entregas antes do merge em produção
+- 📊 Produtos de dados e dashboards em Power BI, Metabase e Looker Studio
+- 🎓 Pós em Ciência de Dados e IA (UNINTER) · 📍 Curitiba, PR
 
-<h3 style="text-align: center;">📊 Ferramentas Business Intelligence (BI)</h3>
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI"></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
-  <a href="https://looker.com/" target="_blank"><img src="https://img.shields.io/badge/Looker-00B0FF?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"></a>
-  <a href="https://wwwqlik.com/" target="_blank"><img src="https://img.shields.io/badge/Qlik%20Sense-48B9C7?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense"></a>
-  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
-  <a href="https://www.google.com/sheets/" target="_blank"><img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
-</div>
+---
 
-<hr style="margin-bottom: 20px; border-bottom: 1px solid #ccc;">
+### 🛠️ Stack
 
-<h3 style="text-align: center;">📚 Bibliotecas</h3>
-<div style="text-align: center; margin-bottom: 20px;">
-<a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
-<a href="https://docs.microsoft.com/en-us/dax/" target="_blank"><img src="https://img.shields.io/badge/DAX-FF3C00?style=for-the-badge&logo=power-bi&logoColor=white" alt="DAX"></a>
-<a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank"><img src="https://img.shields.io/badge/ETL-FF5733?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAIAAAArHJzzAAAAwklEQVR4AYXRMSiEURiF4a+c/WZIxlEoxMLYAJ0bBN+qJFfFBG8M0lBmkzskI4K8kTqhLLBp7MAwd3DtxzPZvZ7t7n3dnHwYAvXnnO1wJFJXZ0A0pY9mIqMZ1UTSoZ4c00HZiHjPp3UWZjO1EKl+lg4qYdGAnQl0E+Z6sK8K0C7tJY1itChEPjGPN3sQ2GOrsmJcVl1UzCmMqyfpHKpmcTy6Kqqn8q65l6Ck8+Y8Fk+YzRMUp3HmJeExy7hn2QXw9H0Z+MQV4+e8gAAAABJRU5ErkJggg==" alt="ETL"></a>
-<a href="https://www.json.org/" target="_blank"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"></a>
-</div>
+**Engenharia de Dados**<br>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=delta&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<hr style="margin-bottom: 20px; border-bottom: 1px solid #ccc;">
+**Cloud & DevOps**<br>
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
-<h3 style="text-align: center;">🔗 Redes sociais</h3>
-<div style="text-align: center;">
-  <a href="https://www.linkedin.com/in/nielknauan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+**IA Aplicada**<br>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multiagentes-8B5CF6?style=flat-square"/>
 
+**BI & Visualização**<br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/>
 
+---
+
+### 🏛️ Arquitetura que eu costumo construir
+
+```
+Fontes (ERP · CRM · APIs · MongoDB)
+        │  ADF / Airflow / notebooks PySpark
+        ▼
+  🥉 Bronze ──► 🥈 Silver ──► 🥇 Gold (Star Schema)
+   raw/Delta     limpo/dedup     dbt: testes + docs
+        │
+        ▼
+  Power BI · Metabase · LLM/Agentes
+```
+
+---
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nielknauan&show_icons=true&hide_border=true&theme=transparent"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielknauan&layout=compact&hide_border=true&theme=transparent"/>
+</p>
